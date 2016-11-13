@@ -1,0 +1,9 @@
+1. https://github.com/t00sh/p-sandbox/blob/master/p-sandbox.c (GitHub repo)
+
+2. http://www.linuxjournal.com/article/6100 [Reading data and Writing data back into registers]
+
+3. Stackoverflow.com for general queries
+
+4. LINUX man pages.
+
+6. https://filippo.io/linux-syscall-table/ [For details of system calls]
